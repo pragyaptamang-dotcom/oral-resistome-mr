@@ -1,0 +1,16 @@
+# secrets and local R state: never upload
+.Renviron
+.Rhistory
+.Rproj.user/
+.RData
+
+# large or rebuildable files
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.rds
+results/*.sqlite
+
+# raw command history (the tidy numbered scripts replace it)
+scripts/all_commands_raw.R

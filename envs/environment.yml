@@ -1,0 +1,17 @@
+name: oral-resistome
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base>=4.3
+  - r-tidyverse
+  - r-remotes
+  - r-ggplot2
+  - r-vegan
+  - git
+  # Added later, as each step needs them:
+  # - fastp
+  # - multiqc
+  # - metaphlan
+  # - snakemake

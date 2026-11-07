@@ -1,0 +1,10 @@
+run,isolate,species,country,ST,ST_note,n_hits,key_genes
+ERR3162530,1370,K. pneumoniae,Nepal,NA,"ST14-like profile, one unassigned allele (phoE)",14,NA
+ERR3162531,1379,K. pneumoniae,Nepal,NA,"unreliable: fragmented assembly, wrong scheme picked",16,blaCTX-M-15
+ERR3162548,2725,K. pneumoniae,Nepal,15,,21,blaCTX-M-15; blaNDM-1; blaOXA-232; rmtC; rmtF
+ERR3162554,BA12464,K. pneumoniae,India,14,,17,blaCTX-M-15; blaOXA-232
+ERR3162558,BA1335,K. pneumoniae,India,985,,16,blaCTX-M-15
+ERR3162560,BA13406,K. pneumoniae,India,307,,15,blaCTX-M-15
+ERR3162561,BA13599,K. pneumoniae,India,231,,19,blaCTX-M; blaOXA-232; rmtF1
+ERR3162573,BA2138,K. pneumoniae,India,14,,16,blaCTX-M-15
+ERR3162532,1429,K. quasipneumoniae,Nepal,NA,outgroup: novel alleles,4,NA

@@ -1,0 +1,27 @@
+# A tibble: 8 × 4
+  sample_name shannon richness group        
+  <chr>         <dbl>    <int> <chr>        
+1 PEPE109        3.13       82 periodontitis
+2 PEPE107        3.11       66 periodontitis
+3 PEPE104        3.87      162 periodontitis
+4 PEPE027        3.90      198 periodontitis
+5 PEHE064        2.29       33 healthy      
+6 PEHE060        2.63       30 healthy      
+7 PEHE057        2.67       40 healthy      
+8 PEHE009        3.49      105 healthy      
+
+	Wilcoxon rank sum exact test
+
+data:  shannon by group
+W = 2, p-value = 0.1143
+alternative hypothesis: true location shift is not equal to 0
+
+Permutation test for adonis under reduced model
+Permutation: free
+Number of permutations: 999
+
+adonis2(formula = bray ~ group, data = meta, permutations = 999)
+         Df SumOfSqs      R2      F Pr(>F)
+Model     1  0.52435 0.21067 1.6014  0.213
+Residual  6  1.96464 0.78933              
+Total     7  2.48899 1.00000              

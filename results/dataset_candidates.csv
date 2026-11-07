@@ -1,0 +1,153 @@
+id,trait,sample_size,population,consortium,year,author,group
+ieu-b-40,body mass index,681275,European,GIANT,2018,"Yengo, L",exposure: BMI
+ebi-a-GCST90029007,Body mass index,532396,European,NA,2018,Loh PR,exposure: BMI
+ukb-b-19953,Body mass index (BMI),461460,European,MRC-IEU,2018,Ben Elsworth,exposure: BMI
+ebi-a-GCST90025994,Body mass index,457756,European,NA,2021,Barton AR,exposure: BMI
+ukb-b-2303,Body mass index (BMI),454884,European,MRC-IEU,2018,Ben Elsworth,exposure: BMI
+ebi-a-GCST90013974,Body mass index (UKB data field 21001),407609,European,NA,2021,Mbatchou J,exposure: BMI
+ebi-a-GCST90013870,Body mass index (UKB data field 21001),407609,European,NA,2021,Mbatchou J,exposure: BMI
+ebi-a-GCST90018947,Body mass index,359983,European,NA,2021,Sakaue S,exposure: BMI
+ieu-a-2,Body mass index,339224,Mixed,GIANT,2015,Locke AE,exposure: BMI
+ukb-a-248,Body mass index (BMI),336107,European,Neale Lab,2017,Neale,exposure: BMI
+ebi-a-GCST90095039,Body mass index,330793,Mixed,NA,2022,Fern<U+00E1>ndez-Rhodes L,exposure: BMI
+ieu-a-835,Body mass index,322154,European,GIANT,2015,Locke AE,exposure: BMI
+ebi-a-GCST006368,Body mass index,315347,European,NA,2018,Hoffmann TJ,exposure: BMI
+ebi-a-GCST002783,Body mass index,236781,European,NA,2015,Locke AE,exposure: BMI
+ieu-a-974,Body mass index,171977,European,GIANT,2015,Locke AE,exposure: BMI
+ebi-a-GCST90018727,Body mass index,163835,East Asian,NA,2021,Sakaue S,exposure: BMI
+bbj-a-1,Body mass index,158284,East Asian,NA,2019,Ishigaki K,exposure: BMI
+ebi-a-GCST004904,Body mass index,158284,East Asian,NA,2017,Akiyama M,exposure: BMI
+ieu-a-785,Body mass index,152893,European,GIANT,2015,Locke AE,exposure: BMI
+ieu-a-1089,Body mass index,120286,European,UK Biobank,2016,Wood,exposure: BMI
+ebi-a-GCST006802,Body mass index,119688,European,NA,2016,Wood AR,exposure: BMI
+ieu-b-4816,Body mass index,99998,European,Within family GWAS consortium,2022,Howe LJ,exposure: BMI
+bbj-a-2,Body mass index,85894,East Asian,NA,2019,Ishigaki K,exposure: BMI
+ieu-a-95,Body mass index,73137,European,GIANT,2013,Randall JC,exposure: BMI
+bbj-a-3,Body mass index,72390,East Asian,NA,2019,Ishigaki K,exposure: BMI
+ieu-a-94,Body mass index,60586,European,GIANT,2013,Randall JC,exposure: BMI
+ebi-a-GCST90095034,Body mass index,56161,Hispanic or Latin American,NA,2022,Fern<U+00E1>ndez-Rhodes L,exposure: BMI
+ieu-b-4815,Body mass index,51852,European,Within family GWAS consortium,2022,Howe LJ,exposure: BMI
+ebi-a-GCST90002409,Childhood body mass index,39620,European,NA,2020,Vogelezang S,exposure: BMI
+ebi-a-GCST008025,Body mass index,21955,Hispanic or Latin American,NA,2019,Wojcik GL,exposure: BMI
+ebi-a-GCST90103751,Body mass index,21930,East Asian,NA,2022,Wong HS,exposure: BMI
+ieu-a-85,Extreme body mass index,16068,European,GIANT,2013,Berndt SI,exposure: BMI
+ukb-e-23104_CSA,Body mass index (BMI),8658,South Asian,NA,2020,Pan-UKB team,exposure: BMI
+ukb-e-21001_CSA,Body mass index (BMI),8646,South Asian,NA,2020,Pan-UKB team,exposure: BMI
+ukb-e-21001_AFR,Body mass index (BMI),6545,African American or Afro-Caribbean,NA,2020,Pan-UKB team,exposure: BMI
+ukb-e-23104_AFR,Body mass index (BMI),6458,African American or Afro-Caribbean,NA,2020,Pan-UKB team,exposure: BMI
+ukb-e-21001_EAS,Body mass index (BMI),2693,East Asian,NA,2020,Pan-UKB team,exposure: BMI
+ukb-e-23104_EAS,Body mass index (BMI),2662,East Asian,NA,2020,Pan-UKB team,exposure: BMI
+ukb-e-21001_MID,Body mass index (BMI),1572,"Greater Middle Eastern (Middle Eastern, North African, or Persian)",NA,2020,Pan-UKB team,exposure: BMI
+ukb-e-23104_MID,Body mass index (BMI),1535,"Greater Middle Eastern (Middle Eastern, North African, or Persian)",NA,2020,Pan-UKB team,exposure: BMI
+ieu-b-111,triglycerides,441016,European,UK Biobank,2020,"Richardson, Tom",exposure: triglycerides
+ebi-a-GCST90025957,Triglyceride levels,437532,European,NA,2021,Barton AR,exposure: triglycerides
+ebi-a-GCST90014014,Triglyceride levels (UKB data field 30870),389562,European,NA,2021,Mbatchou J,exposure: triglycerides
+ebi-a-GCST90018975,Triglycerides,343992,European,NA,2021,Sakaue S,exposure: triglycerides
+ieu-a-302,Triglycerides,177861,Mixed,GLGC,2013,Willer CJ,exposure: triglycerides
+ebi-a-GCST90093050,Triglyceride levels in chylomicrons and extremely large VLDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90093039,Triglycerides to total lipids ratio in very small VLDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90093038,Triglyceride levels in very small VLDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90093026,Triglyceride levels in very large VLDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90093014,Triglyceride levels in very large HDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90093003,Triglyceride levels in VLDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092992,Total triglycerides levels,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092979,Triglycerides to total lipids ratio in small VLDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092978,Triglyceride levels in small VLDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092967,Triglycerides to total lipids ratio in small LDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092966,Triglyceride levels in small LDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092955,Triglycerides to total lipids ratio in small HDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092954,Triglyceride levels in small HDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092927,Triglycerides to total lipids ratio in medium VLDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092926,Triglyceride levels in medium VLDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092915,Triglycerides to total lipids ratio in medium LDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092914,Triglyceride levels in medium LDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092903,Triglycerides to total lipids ratio in medium HDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092902,Triglyceride levels in medium HDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092890,Triglyceride levels in LDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092878,Triglyceride levels in large VLDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092867,Triglycerides to total lipids ratio in large LDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092866,Triglyceride levels in large LDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092855,Triglycerides to total lipids ratio in large HDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092854,Triglyceride levels in large HDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092842,Triglycerides to total lipids ratio in IDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092841,Triglyceride levels in IDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+ebi-a-GCST90092829,Triglyceride levels in HDL,115082,European,NA,2022,Richardson TG,exposure: triglycerides
+met-d-M_HDL_TG_pct,Triglycerides to total lipids ratio in medium HDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-L_VLDL_TG,Triglycerides in large VLDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-XS_VLDL_TG,Triglycerides in very small VLDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-IDL_TG_pct,Triglycerides to total lipids ratio in IDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-L_LDL_TG,Triglycerides in large LDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-S_VLDL_TG_pct,Triglycerides to total lipids ratio in small VLDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-IDL_TG,Triglycerides in IDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-M_VLDL_TG,Triglycerides in medium VLDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-M_LDL_TG,Triglycerides in medium LDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-M_HDL_TG,Triglycerides in medium HDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-XL_VLDL_TG,Triglycerides in very large VLDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-LDL_TG,Triglycerides in LDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-Total_TG,Total triglycerides,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-S_LDL_TG_pct,Triglycerides to total lipids ratio in small LDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-M_VLDL_TG_pct,Triglycerides to total lipids ratio in medium VLDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-S_HDL_TG,Triglycerides in small HDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-HDL_TG,Triglycerides in HDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-S_LDL_TG,Triglycerides in small LDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-L_HDL_TG,Triglycerides in large HDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-S_HDL_TG_pct,Triglycerides to total lipids ratio in small HDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-XL_HDL_TG,Triglycerides in very large HDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-XXL_VLDL_TG,Triglycerides in chylomicrons and extremely large VLDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-M_LDL_TG_pct,Triglycerides to total lipids ratio in medium LDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-L_LDL_TG_pct,Triglycerides to total lipids ratio in large LDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-S_VLDL_TG,Triglycerides in small VLDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-VLDL_TG,Triglycerides in VLDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-L_HDL_TG_pct,Triglycerides to total lipids ratio in large HDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+met-d-XS_VLDL_TG_pct,Triglycerides to total lipids ratio in very small VLDL,115078,European,NA,2020,Borges CM,exposure: triglycerides
+ebi-a-GCST90092879,Triglycerides to total lipids ratio in large VLDL,115071,European,NA,2022,Richardson TG,exposure: triglycerides
+met-d-L_VLDL_TG_pct,Triglycerides to total lipids ratio in large VLDL,115067,European,NA,2020,Borges CM,exposure: triglycerides
+ebi-a-GCST90093015,Triglycerides to total lipids ratio in very large HDL,115056,European,NA,2022,Richardson TG,exposure: triglycerides
+met-d-XL_HDL_TG_pct,Triglycerides to total lipids ratio in very large HDL,115053,European,NA,2020,Borges CM,exposure: triglycerides
+ebi-a-GCST90092983,Ratio of triglycerides to phosphoglycerides,115006,European,NA,2022,Richardson TG,exposure: triglycerides
+met-d-TG_by_PG,Ratio of triglycerides to phosphoglycerides,114999,European,NA,2020,Borges CM,exposure: triglycerides
+ebi-a-GCST90093027,Triglycerides to total lipids ratio in very large VLDL,114160,European,NA,2022,Richardson TG,exposure: triglycerides
+met-d-XL_VLDL_TG_pct,Triglycerides to total lipids ratio in very large VLDL,114155,European,NA,2020,Borges CM,exposure: triglycerides
+ebi-a-GCST90018755,Triglycerides,111667,East Asian,NA,2021,Sakaue S,exposure: triglycerides
+ebi-a-GCST90093051,Triglycerides to total lipids ratio in chylomicrons and extremely large VLDL,111638,European,NA,2022,Richardson TG,exposure: triglycerides
+met-d-XXL_VLDL_TG_pct,Triglycerides to total lipids ratio in chylomicrons and extremely large VLDL,111631,European,NA,2020,Borges CM,exposure: triglycerides
+bbj-a-55,Triglyceride,105597,East Asian,NA,2019,Ishigaki K,exposure: triglycerides
+ebi-a-GCST000758,Triglycerides,96598,European,NA,2010,Teslovich TM,exposure: triglycerides
+ebi-a-GCST002216,Triglycerides,94595,European,NA,2013,Willer CJ,exposure: triglycerides
+ieu-a-783,Triglycerides,86852,Mixed,GLGC,2013,Willer CJ,exposure: triglycerides
+ieu-b-4850,Triglycerides,78700,European,Within family GWAS consortium,2022,Howe LJ,exposure: triglycerides
+ieu-b-4849,Triglycerides,30515,European,Within family GWAS consortium,2022,Howe LJ,exposure: triglycerides
+ebi-a-GCST90101748,Triglyceride levels,24600,Sub-Saharan African,NA,2022,Choudhury A,exposure: triglycerides
+met-c-923,Triglycerides in small HDL,21558,European,NA,2016,Kettunen,exposure: triglycerides
+met-c-932,Triglycerides in small VLDL,21558,European,NA,2016,Kettunen,exposure: triglycerides
+met-c-952,Triglycerides in very large VLDL,21548,European,NA,2016,Kettunen,exposure: triglycerides
+met-c-934,Serum total triglycerides,21545,European,NA,2016,Kettunen,exposure: triglycerides
+met-c-960,Triglycerides in chylomicrons and largest VLDL particles,21540,European,NA,2016,Kettunen,exposure: triglycerides
+met-c-948,Triglycerides in very large HDL,21536,European,NA,2016,Kettunen,exposure: triglycerides
+met-c-915,Triglycerides in medium VLDL,21241,European,NA,2016,Kettunen,exposure: triglycerides
+met-c-892,Triglycerides in large VLDL,21239,European,NA,2016,Kettunen,exposure: triglycerides
+met-c-956,Triglycerides in very small VLDL,19273,European,NA,2016,Kettunen,exposure: triglycerides
+met-c-872,Triglycerides in IDL,19273,European,NA,2016,Kettunen,exposure: triglycerides
+ebi-a-GCST008046,Triglyceride levels,17856,Hispanic or Latin American,NA,2019,Wojcik GL,exposure: triglycerides
+ebi-a-GCST008591,Triglyceride levels,11103,Hispanic or Latin American,NA,2019,Andaleon A,exposure: triglycerides
+ebi-a-GCST90101744,Triglyceride levels,10474,Sub-Saharan African,NA,2022,Choudhury A,exposure: triglycerides
+ebi-a-GCST005073,Triglyceride levels,9745,European,NA,2017,Prins BP,exposure: triglycerides
+ukb-e-30870_CSA,Triglycerides,8415,South Asian,NA,2020,Pan-UKB team,exposure: triglycerides
+ukb-e-30870_AFR,Triglycerides,6211,African American or Afro-Caribbean,NA,2020,Pan-UKB team,exposure: triglycerides
+ukb-e-30870_EAS,Triglycerides,2570,East Asian,NA,2020,Pan-UKB team,exposure: triglycerides
+ukb-e-30870_MID,Triglycerides,1499,"Greater Middle Eastern (Middle Eastern, North African, or Persian)",NA,2020,Pan-UKB team,exposure: triglycerides
+ebi-a-GCST006308,Triglycerides,1017,Sub-Saharan African,NA,2018,Andaleon A,exposure: triglycerides
+ukb-d-30870_raw,Triglycerides,NA,European,NA,2018,Neale lab,exposure: triglycerides
+ukb-d-30870_irnt,Triglycerides,NA,European,NA,2018,Neale lab,exposure: triglycerides
+ebi-a-GCST90018897,Periodontal disease,348926,European,NA,2021,Sakaue S,outcome: periodontitis
+bbj-a-142,Periodontal disease,212453,East Asian,NA,2019,Ishigaki K,outcome: periodontitis
+ebi-a-GCST90018677,Periodontal disease,178726,East Asian,NA,2021,Sakaue S,outcome: periodontitis
+ebi-a-GCST003484,Periodontal disease-related phenotype (Socransky),975,European,NA,2016,Offenbacher S,outcome: periodontitis
+finn-b-K11_PERIODON_CHRON,Chronic periodontitis,NA,European,NA,2021,NA,outcome: periodontitis
+finn-b-K11_GINGIVITIS_PERIODONTAL,Gingivitis and periodontal diseases,NA,European,NA,2021,NA,outcome: periodontitis
+finn-b-K11_PERIODON_ACUTE,Acute periodontitis,NA,European,NA,2021,NA,outcome: periodontitis
+ukb-b-4770,"Diagnoses - main ICD10: K02.9 Dental caries, unspecified",463010,European,MRC-IEU,2018,Ben Elsworth,outcome: caries
+ukb-d-K02,Diagnoses - main ICD10: K02 Dental caries,361194,European,NA,2018,Neale lab,outcome: caries
+ukb-e-K02_AFR,K02 Dental caries,6636,African American or Afro-Caribbean,NA,2020,Pan-UKB team,outcome: caries
+finn-b-Q17_CLEFT_AND_CARIES,Clefts and caries,NA,European,NA,2021,NA,outcome: caries
+finn-b-K11_CARIES,Dental caries,NA,European,NA,2021,NA,outcome: caries
